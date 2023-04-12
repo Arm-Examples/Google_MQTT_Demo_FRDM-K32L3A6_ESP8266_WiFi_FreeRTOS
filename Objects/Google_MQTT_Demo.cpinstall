@@ -1,0 +1,10 @@
+ARM::mbedTLS@1.7.0
+MDK-Packs::Google_IoT_Device@1.0.3
+MDK-Packs::Paho_MQTT@1.0.3
+ARM::CMSIS
+Keil::ARM_Compiler
+NXP::FRDM-K32L3A6_BSP@13.0.0
+NXP::K32L3A60_DFP@13.0.0
+ARM::CMSIS-Driver
+ARM::CMSIS-FreeRTOS
+MDK-Packs::IoT_Socket

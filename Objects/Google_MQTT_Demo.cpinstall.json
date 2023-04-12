@@ -1,0 +1,12 @@
+[
+{"vendor": "ARM", "name": "mbedTLS", "version": "1.7.0"},
+{"vendor": "MDK-Packs", "name": "Google_IoT_Device", "version": "1.0.3"},
+{"vendor": "MDK-Packs", "name": "Paho_MQTT", "version": "1.0.3"},
+{"vendor": "ARM", "name": "CMSIS"},
+{"vendor": "Keil", "name": "ARM_Compiler"},
+{"vendor": "NXP", "name": "FRDM-K32L3A6_BSP", "version": "13.0.0"},
+{"vendor": "NXP", "name": "K32L3A60_DFP", "version": "13.0.0"},
+{"vendor": "ARM", "name": "CMSIS-Driver"},
+{"vendor": "ARM", "name": "CMSIS-FreeRTOS"},
+{"vendor": "MDK-Packs", "name": "IoT_Socket"}
+]
